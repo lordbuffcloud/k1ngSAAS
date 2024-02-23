@@ -8,3 +8,5 @@ export const AddTransformationPage
     </div>
   )
 }
+
+export default AddTransformationPage
