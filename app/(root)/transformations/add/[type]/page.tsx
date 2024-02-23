@@ -1,6 +1,6 @@
 import React from 'react'
 
-export const AddTransformationPage
+export const AddTransformationTypePage
  = () => {
   return (
     <div>AddTransformationPage
@@ -9,4 +9,4 @@ export const AddTransformationPage
   )
 }
 
-export default AddTransformationPage
+export default AddTransformationTypePage
