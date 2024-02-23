@@ -1,10 +1,9 @@
-import React from 'react'
+import React from 'react';
 
-export const AddTransformationTypePage
- = () => {
+const AddTransformationTypePage = () => {
   return (
     <div>AddTransformationPage</div>
-  )
-}
+  );
+};
 
-export default AddTransformationTypePage
+export default AddTransformationTypePage;
